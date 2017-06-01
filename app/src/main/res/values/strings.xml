@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="tv_utc_lable">UTC:  </string>
+    <string name="tv_colon">:</string>
+    <string name="switch_radio_button">Radio/Button: </string>
+    <string name="btn_clear">Clear All</string>
+    <string name="btn_pst">Pacific Standard Time (PST)</string>
+    <string name="btn_mst">Mountain Standard Time (MST) </string>
+    <string name="btn_cst">Central Standard Time (CST)</string>
+    <string name="btn_est">Eastern Standard Time (EST)</string>
+    <string name="hint_hour">Hour</string>
+    <string name="hint_minutes">Minutes</string>
+    <string name="text_view_time">Time :</string>
+    <string name="rb_est">Eastern Standard Time (EST)</string>
+    <string name="rb_cst">Central Standard Time (CST)</string>
+    <string name="rb_mst">Mountain Standard Time (MST)</string>
+    <string name="rb_pst">Pacific Standard Time (PST)</string>
+    <string name="rb_clear">Clear All</string>
+    <string name="btn_convert">Convert</string>
+</resources>
